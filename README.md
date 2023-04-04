@@ -1,7 +1,7 @@
 
-<h3> Hii There 👋  I am Jithu Jacob <h3>
+<h3> Hii There 👋 <h3>
 
- <h4> I am a self taught python django developer. <h4>
+ <h4> I am Jithu Jacob, a self taught python django developer. <h4>
 
 <h6>I consider myself as a quick learner. I enjoy taking new challenges and solving complex problems. I am passionate about writing 
 clean and maintainable code. And I have good knowledge in developing web applications from design to deployment. 
