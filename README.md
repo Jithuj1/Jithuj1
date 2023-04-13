@@ -34,6 +34,10 @@ and I'm always looking for ways to improve my skills and knowledge. <h6>
 <img align="left" alt="nginx" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 
 <br />
+<br />
+<br />
+<br />
+<br />
 	
 	
 # 📊 GitHub Stats:
