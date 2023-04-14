@@ -35,7 +35,4 @@ and I'm always looking for ways to improve my skills and knowledge. <h6>
 
 <br />
 <br />
-<br />
-<br />
-<br />
 	
