@@ -1,7 +1,7 @@
 
 <h3> Hii There 👋 <h3>
 
- <h4> I'm Jithu Jacob, a self-taught software developer with one year of experience. <h4>
+ <h4> I'm Jithu Jacob, with significant experience in software development, which I've cultivated through a combination of professional work and experience. <h4>
 
 <h6>I I have a knack for learning quickly and excel at tackling new challenges and solving complex problems. I am passionate about writing clean, maintainable code and possess strong skills in developing web applications from design to deployment. I'm constantly seeking opportunities to improve my expertise and knowledge, always striving for excellence in my field. <h6>
 	 
